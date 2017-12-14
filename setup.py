@@ -6,7 +6,7 @@ setup(
     packages=[''],
     url='',
     license='',
-    author='Shivang Shekhar',
+    author='Shivank Shekhar',
     author_email='shivank1995@gmail.com',
     description='This is a simple python encryptor version 1 and developed fo understanding the concept behind encryption'
 )
